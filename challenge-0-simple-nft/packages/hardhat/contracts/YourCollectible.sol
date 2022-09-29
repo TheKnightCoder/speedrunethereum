@@ -68,3 +68,4 @@ contract YourCollectible is
 }
 
 // goerli 0x13DD46A72D79EE00D7c47cC192F4D0278ae7ce39
+// rinkeby 0x13dd46a72d79ee00d7c47cc192f4d0278ae7ce39
